@@ -21,6 +21,8 @@ module.exports = {
                     ["/concepts/views", "视图"],
                     ["/concepts/context-helpers", "context"],
                     ["/concepts/server-side-rendering", "服务器端渲染"],
+                    ["/concepts/static-site-generation", "编译静态html"],
+                    ["/concepts/nuxt-lifecycle", "nuxt生命周期"],
                 ]
             }
         ],
